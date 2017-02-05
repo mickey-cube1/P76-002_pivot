@@ -24,5 +24,5 @@ The BSD 2-Clause License
 
 ## Author
 
-[mickey-cube1](https://github.com/mickey-cube1])
+[mickey-cube1](https://github.com/mickey-cube1)
 
