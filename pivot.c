@@ -417,14 +417,6 @@ main(int argc, char *argv[])
 		errx(1, "-O option: conflict with -o option");
 	}
 
-	if (argc == 0) {
-		/* read from stdin */
-	} else if (argc == 1) {
-		/* read from specfied file */
-	} else {
-		usage();
-	}
-
 	if (gReverseMode == 0) {
 		do_pivot(ifp, ofp);
 	} else {
