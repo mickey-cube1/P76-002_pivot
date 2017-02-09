@@ -49,3 +49,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Automaked files
+.deps/
+Makefile
+config.h
+config.log
+config.status
+pivot
+stamp-h1
+
