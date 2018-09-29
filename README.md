@@ -1,5 +1,5 @@
-# P76-002_pivot
-pivot
+# pivot
+
 ====
 
 pivot - transform from column date to row.
